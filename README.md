@@ -1,2 +1,2 @@
 # Snippets
-Xamarin code snippets
+Xamarin and Azure code snippets
